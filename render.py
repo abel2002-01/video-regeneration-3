@@ -54,7 +54,8 @@ import numpy as np
 RESOLUTION = 512  # 512x512 for paper quality (increase to 1024 for final)
 
 # Number of rotation samples: More = smoother reflectance curves
-THETA_SAMPLES = 72  # 72 samples = 5° increments (increase to 360 for 1° steps)
+# Use 360 for 1° steps (paper-ready), 72 for quick testing
+THETA_SAMPLES = 360  # 360 samples = 1° increments for comprehensive coverage
 
 # Subdivision level: Higher = more vertices = better correspondence
 SUBDIVISION_LEVEL = 3  # Level 3 gives ~32,000 vertices

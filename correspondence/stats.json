@@ -1,18 +1,18 @@
 {
-  "total_unique_vertices": 1878021,
-  "total_observations": 3527848,
+  "total_unique_vertices": 5550064,
+  "total_observations": 17639346,
   "visibility": {
     "min": 1,
-    "max": 205,
-    "mean": 1.8784923065290537,
+    "max": 1014,
+    "mean": 3.17822389075153,
     "median": 1.0,
-    "std": 3.7452642518861836
+    "std": 11.222756099556861
   },
   "coverage": {
-    "visible_in_all_frames": 839,
-    "visible_in_50pct_frames": 4287,
-    "visible_in_25pct_frames": 14127,
-    "visible_in_10pct_frames": 53324
+    "visible_in_all_frames": 791,
+    "visible_in_50pct_frames": 3827,
+    "visible_in_25pct_frames": 13213,
+    "visible_in_10pct_frames": 51936
   },
-  "theta_samples": 72
+  "theta_samples": 360
 }
