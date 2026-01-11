@@ -1,0 +1,31 @@
+# Large render files (EXR)
+renders/*.exr
+
+# Large correspondence data
+correspondence/correspondence_map.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.tmp
+*.log
+.render_config.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Keep these (small enough for git)
+# - renders/metadata.json
+# - correspondence/stats.json
+# - output/*.png
+# - output/*.gif
+# - docs/*
+

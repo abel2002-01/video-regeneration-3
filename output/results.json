@@ -1,0 +1,614 @@
+{
+  "num_points_analyzed": 100,
+  "num_valid_points": 100,
+  "theta_samples": 72,
+  "aggregate": {
+    "avg_mse": 6.031068725981987e-17,
+    "avg_mae": 1.6757893814799545e-09,
+    "avg_correlation": 0.9999999999999842,
+    "min_correlation": 0.9999999999996773,
+    "max_correlation": 1.0
+  },
+  "per_point": [
+    {
+      "vertex_key": "(np.float32(0.0027), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 29,
+      "mse": 1.060167486172541e-16,
+      "correlation": 0.9999999999999928
+    },
+    {
+      "vertex_key": "(np.float32(0.0026), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.4957175620106547e-16,
+      "correlation": 0.9999999999999646
+    },
+    {
+      "vertex_key": "(np.float32(0.0029), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 4.0740757663140105e-17,
+      "correlation": 0.9999999999999898
+    },
+    {
+      "vertex_key": "(np.float32(0.0032), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.756250340938877e-16,
+      "correlation": 0.9999999999999921
+    },
+    {
+      "vertex_key": "(np.float32(0.0028), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.5400022602615835e-16,
+      "correlation": 0.999999999999981
+    },
+    {
+      "vertex_key": "(np.float32(0.0024), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.5046101017180318e-16,
+      "correlation": 0.9999999999999822
+    },
+    {
+      "vertex_key": "(np.float32(0.003), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 7.951754064850865e-17,
+      "correlation": 0.9999999999999902
+    },
+    {
+      "vertex_key": "(np.float32(0.0025), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.6457213381647217e-16,
+      "correlation": 0.9999999999999888
+    },
+    {
+      "vertex_key": "(np.float32(0.0023), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 5.814889027976033e-17,
+      "correlation": 0.9999999999999992
+    },
+    {
+      "vertex_key": "(np.float32(0.0033), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.7928230675762157e-16,
+      "correlation": 0.9999999999999837
+    },
+    {
+      "vertex_key": "(np.float32(0.0035), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 7.57805632048404e-17,
+      "correlation": 0.9999999999999776
+    },
+    {
+      "vertex_key": "(np.float32(0.0022), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 3.3186180640716417e-16,
+      "correlation": 0.9999999999999605
+    },
+    {
+      "vertex_key": "(np.float32(0.0031), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.2086558219869318e-16,
+      "correlation": 0.9999999999999828
+    },
+    {
+      "vertex_key": "(np.float32(0.0034), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 7.210651733417681e-18,
+      "correlation": 0.9999999999999996
+    },
+    {
+      "vertex_key": "(np.float32(0.0036), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 6.05729505357892e-17,
+      "correlation": 0.9999999999999866
+    },
+    {
+      "vertex_key": "(np.float32(0.0021), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.647163265408187e-16,
+      "correlation": 0.9999999999999806
+    },
+    {
+      "vertex_key": "(np.float32(0.004), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 7.662557768462231e-17,
+      "correlation": 0.9999999999999721
+    },
+    {
+      "vertex_key": "(np.float32(0.0038), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 5.751404297629518e-17,
+      "correlation": 0.9999999999999918
+    },
+    {
+      "vertex_key": "(np.float32(0.0037), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.5976891306683125e-16,
+      "correlation": 0.999999999999985
+    },
+    {
+      "vertex_key": "(np.float32(0.0039), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 3.7946263939766124e-17,
+      "correlation": 0.9999999999999943
+    },
+    {
+      "vertex_key": "(np.float32(0.0043), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 8.593290324039765e-17,
+      "correlation": 0.999999999999981
+    },
+    {
+      "vertex_key": "(np.float32(0.0021), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0022), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0041), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.169191103133822e-16,
+      "correlation": 0.9999999999999879
+    },
+    {
+      "vertex_key": "(np.float32(0.0019), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0028), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0048), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 4.9972416604496724e-18,
+      "correlation": 0.9999999999999986
+    },
+    {
+      "vertex_key": "(np.float32(0.0026), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0025), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0051), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.153032083144397e-16,
+      "correlation": 0.9999999999999639
+    },
+    {
+      "vertex_key": "(np.float32(0.002), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.6892886397885826e-16,
+      "correlation": 0.999999999999968
+    },
+    {
+      "vertex_key": "(np.float32(0.0024), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0044), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 2.0343369096220104e-16,
+      "correlation": 0.9999999999999776
+    },
+    {
+      "vertex_key": "(np.float32(0.0018), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.005), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 25,
+      "mse": 1.0891795075071328e-16,
+      "correlation": 0.9999999999999956
+    },
+    {
+      "vertex_key": "(np.float32(0.003), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0053), np.float32(0.1946), np.float32(0.0))",
+      "num_observations": 29,
+      "mse": 1.3432527885635538e-16,
+      "correlation": 0.9999999999999564
+    },
+    {
+      "vertex_key": "(np.float32(0.0045), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 1.0161406169886418e-16,
+      "correlation": 0.9999999999999819
+    },
+    {
+      "vertex_key": "(np.float32(0.0032), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 32,
+      "mse": 1.781124345621713e-18,
+      "correlation": 0.9999999999999998
+    },
+    {
+      "vertex_key": "(np.float32(0.0047), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 7.432472482208005e-17,
+      "correlation": 0.9999999999999645
+    },
+    {
+      "vertex_key": "(np.float32(0.002), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0046), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 6.0947509016393875e-18,
+      "correlation": 0.999999999999999
+    },
+    {
+      "vertex_key": "(np.float32(0.0041), np.float32(0.0319), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 4.641613455075112e-17,
+      "correlation": 0.9999999999999711
+    },
+    {
+      "vertex_key": "(np.float32(0.0016), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0058), np.float32(0.1946), np.float32(0.0))",
+      "num_observations": 24,
+      "mse": 5.267372791861624e-17,
+      "correlation": 0.9999999999997209
+    },
+    {
+      "vertex_key": "(np.float32(0.0023), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0017), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 29,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0018), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 5.4189175587682756e-17,
+      "correlation": 0.9999999999999883
+    },
+    {
+      "vertex_key": "(np.float32(0.0042), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.474184082282151e-17,
+      "correlation": 0.999999999999994
+    },
+    {
+      "vertex_key": "(np.float32(0.0053), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 1.0484219728136406e-17,
+      "correlation": 0.9999999999999936
+    },
+    {
+      "vertex_key": "(np.float32(0.0056), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 7.572970744416831e-17,
+      "correlation": 0.9999999999999855
+    },
+    {
+      "vertex_key": "(np.float32(0.0055), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 3.0098787302772393e-17,
+      "correlation": 0.9999999999999898
+    },
+    {
+      "vertex_key": "(np.float32(0.0019), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 9.666943523922599e-17,
+      "correlation": 0.9999999999999922
+    },
+    {
+      "vertex_key": "(np.float32(0.0027), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0054), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.1224834352229614e-16,
+      "correlation": 0.9999999999996773
+    },
+    {
+      "vertex_key": "(np.float32(0.0051), np.float32(0.0319), np.float32(0.0))",
+      "num_observations": 32,
+      "mse": 1.6875828878894855e-16,
+      "correlation": 0.9999999999999901
+    },
+    {
+      "vertex_key": "(np.float32(0.0034), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0038), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0049), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 1.3703738751731269e-17,
+      "correlation": 0.9999999999999993
+    },
+    {
+      "vertex_key": "(np.float32(0.0052), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 6.8241636782532e-17,
+      "correlation": 0.9999999999999859
+    },
+    {
+      "vertex_key": "(np.float32(0.0064), np.float32(0.0319), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 1.482128520757342e-16,
+      "correlation": 0.9999999999999938
+    },
+    {
+      "vertex_key": "(np.float32(0.0015), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0058), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 2.2509244825773307e-16,
+      "correlation": 0.9999999999999466
+    },
+    {
+      "vertex_key": "(np.float32(0.0037), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 32,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0017), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.4307931501466783e-16,
+      "correlation": 0.9999999999999918
+    },
+    {
+      "vertex_key": "(np.float32(0.0029), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.002), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0059), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.219481883077664e-16,
+      "correlation": 0.9999999999999613
+    },
+    {
+      "vertex_key": "(np.float32(0.0064), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 9.920897521341953e-17,
+      "correlation": 0.9999999999999776
+    },
+    {
+      "vertex_key": "(np.float32(0.0029), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.006), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 6.7753836232719045e-18,
+      "correlation": 0.9999999999999993
+    },
+    {
+      "vertex_key": "(np.float32(0.0024), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0035), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0022), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0036), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0044), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 29,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0033), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0043), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0062), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 7.268658287584145e-17,
+      "correlation": 0.9999999999999933
+    },
+    {
+      "vertex_key": "(np.float32(0.0023), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.003), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0093), np.float32(0.1946), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 2.2851465491480927e-16,
+      "correlation": 0.9999999999999262
+    },
+    {
+      "vertex_key": "(np.float32(0.0031), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 29,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0068), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 29,
+      "mse": 2.1083841150638685e-16,
+      "correlation": 0.9999999999999943
+    },
+    {
+      "vertex_key": "(np.float32(0.0041), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0046), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0061), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 9.605876789402134e-17,
+      "correlation": 0.9999999999999839
+    },
+    {
+      "vertex_key": "(np.float32(0.0035), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 25,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0026), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0014), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 31,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0077), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.9766946747287844e-18,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0021), np.float32(0.0953), np.float32(0.0))",
+      "num_observations": 26,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0042), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0057), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 7.616954070909528e-17,
+      "correlation": 0.9999999999999432
+    },
+    {
+      "vertex_key": "(np.float32(0.0077), np.float32(0.1946), np.float32(0.0))",
+      "num_observations": 24,
+      "mse": 4.653104002162761e-17,
+      "correlation": 0.999999999999993
+    },
+    {
+      "vertex_key": "(np.float32(0.004), np.float32(0.0908), np.float32(0.0))",
+      "num_observations": 30,
+      "mse": 0.0,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0063), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 28,
+      "mse": 1.0445277598422503e-16,
+      "correlation": 0.9999999999999691
+    },
+    {
+      "vertex_key": "(np.float32(0.0072), np.float32(0.1221), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 4.493833396704831e-18,
+      "correlation": 1.0
+    },
+    {
+      "vertex_key": "(np.float32(0.0066), np.float32(0.1946), np.float32(0.0))",
+      "num_observations": 25,
+      "mse": 7.194315802835082e-17,
+      "correlation": 0.999999999999989
+    },
+    {
+      "vertex_key": "(np.float32(0.0069), np.float32(0.1946), np.float32(0.0))",
+      "num_observations": 27,
+      "mse": 1.5575907463500578e-16,
+      "correlation": 0.9999999999999969
+    }
+  ]
+}
